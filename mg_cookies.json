@@ -1,0 +1,1 @@
+[{"name": "csrftoken", "value": "MJPMxQM3rAHBKcHdycctT8mI9jG1WiZY", "domain": "www.mgeko.cc", "path": "/", "expires": 1763841082.00266, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "sessionid", "value": "3yjqahn577grc37xuncy0exdpb4fx76c", "domain": "www.mgeko.cc", "path": "/", "expires": 1733601081.73414, "httpOnly": true, "secure": false, "sameSite": "Lax"}]
